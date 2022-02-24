@@ -1,6 +1,6 @@
 # FastDRO-MinMaxOpt
 
-This is the code for the [AISTATS-2022 paper](https://arxiv.org/abs/2104.13326) ''Fast Distributionally Robust Learning with Variance Reduced Min-Max Optimization'' by Yaodong Yu*, Tianyi Lin*, Eric Mazumdar*, Michael I. Jordan (*equal contribution).
+This is the code for the [AISTATS-2022 paper](https://arxiv.org/abs/2104.13326) ''Fast Distributionally Robust Learning with Variance Reduced Min-Max Optimization''.
 
 ## Reference
 For more technical details, please check our [paper](https://arxiv.org/abs/2104.13326). If you find this useful for your work, please consider citing
